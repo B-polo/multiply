@@ -1,3 +1,3 @@
 {
-  "default": "genomes/variation/AstephensiUCISS2018/astepensi_filtered_snps.bed"
+  "default": "genomes/variation/AstephensiUCISS2018/astepensi_variants.bed"
 }
